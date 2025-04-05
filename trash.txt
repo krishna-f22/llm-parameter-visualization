@@ -1,0 +1,2 @@
+git config user.name "krishna-f22"
+git config user.email "krishna.puwar@f22labs.com"
