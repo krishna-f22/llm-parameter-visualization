@@ -24,7 +24,7 @@ This interactive application helps users visualize and understand the effects of
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/llm-parameter-visualization.git
+   git clone https://github.com/krishna-f22/llm-parameter-visualization.git
    cd llm-parameter-visualization
    ```
 
