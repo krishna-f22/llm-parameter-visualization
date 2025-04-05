@@ -1,0 +1,5 @@
+torch
+transformers
+gradio
+requests
+accelerate>=0.26.0
